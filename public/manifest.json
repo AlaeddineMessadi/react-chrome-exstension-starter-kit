@@ -1,6 +1,6 @@
 {
-  "name": "Chrome Autorefresh",
-  "description": "Chrome auto refresh plugin",
+  "name": "react-chrome-exstension-starter-kit",
+  "description": "Chrome Extension Starter Kit with React (CRA)",
   "version": "1.0",
   "manifest_version": 2,
   "browser_action": {

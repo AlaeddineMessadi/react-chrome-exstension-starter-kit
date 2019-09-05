@@ -1,6 +1,10 @@
 {
-  "name": "chromereautorefresh",
+  "name": "react-chrome-exstension-starter-kit",
   "version": "0.1.0",
+  "author": {
+    "name": "Alaeddine Messadi",
+    "email": "alaeddine.messadi@icloud.com"
+  },
   "private": true,
   "dependencies": {
     "@babel/core": "7.5.5",
