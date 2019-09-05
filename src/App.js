@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Button from 'material-kit-react/src/components/CustomButtons';
+import Button from '@material-ui/core/Button';
 
 
 function App() {
